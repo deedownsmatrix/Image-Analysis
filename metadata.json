@@ -1,0 +1,8 @@
+{
+  "name": "Visionary Analyst",
+  "description": "A multimodal object detection and contextual analysis tool powered by Gemini 2.5 Flash. Upload images or videos for deep insights.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
